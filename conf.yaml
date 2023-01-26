@@ -1,0 +1,5 @@
+conf:
+  namespaces:
+    - service-customer-order
+    - service-customer-order-worker
+  canaryMaxTimeInMinutes: 1440
